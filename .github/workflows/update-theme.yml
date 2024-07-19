@@ -1,0 +1,38 @@
+name: Update theme
+
+# Controls when the workflow will run
+on:
+  schedule:
+    # Update theme automatically everyday at 00:00 UTC
+    - cron: "0 0 * * 0"
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  update-theme:
+    runs-on: ubuntu-latest
+
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
+    
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 0.123.8
+          extended: true
+
+      - name: Update theme
+        run: hugo mod get -u github.com/CaiJimmy/hugo-theme-stack/v3
+
+      - name: Tidy go.mod, go.sum
+        run: hugo mod tidy
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "CI: Update theme"

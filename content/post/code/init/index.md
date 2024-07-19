@@ -1,12 +1,18 @@
-# Awesome Arabic Speakers
-
-<p align="center">
-  <a href="https://github.com/sahaba-ai/awesome-arabic-speakers" style="display: block; padding: 1em 0;">
-    <img alt="Awesome Arabic Speakers logo" border="0" width="70%" src="./static/img/awesome-arabic-speakers.svg"/>
-  </a>
-</p>
-
-> A curated and collaborative list of Arabic speaker's contributions in tech.
+---
+title: Init
+description: Welcome to Awesome Arabic Speakers project
+slug: main
+date: 2024-07-19 00:00:00+0000
+image: img/awesome-arabic-speakers.png
+categories:
+  - Blog
+  - Code
+  - People
+  - Podcast
+tags:
+  - Init
+weight: 1
+---
 
 [Arabic](https://en.wikipedia.org/wiki/Arabic) is the third most widespread official language after English and French! It has **380 million** native speakers of all varieties (2024).
 
