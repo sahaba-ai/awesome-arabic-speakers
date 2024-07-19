@@ -7,8 +7,10 @@ image: img/awesome-arabic-speakers.png
 categories:
   - Blog
   - Code
+  - Event
   - People
   - Podcast
+  - Project
 tags:
   - Init
 weight: 1

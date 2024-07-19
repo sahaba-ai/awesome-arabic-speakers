@@ -1,33 +1,25 @@
 ---
 title: Links
 links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: Egypt - Egy Tech FYI
+    description: Ultimate insight hub about Tech in Egypt.
+    website: https://egytech.fyi
+    image: https://egytech.fyi/symbol.svg
+  - title: Morocco - Awesome Morocco
+    description: List of awesome Moroccan things for/by Developers.
+    website: https://awesome-morocco.dev
+    image: https://raw.githubusercontent.com/geeksblabla/awesome-morocco/master/logo.svg
+  - title: Morocco - State Of Dev In Morocco
+    description: Ultimate insight hub about Tech in Morocco.
+    website: https://stateofdev.ma
+    image: https://user-images.githubusercontent.com/11137944/101990595-01f5f280-3ca8-11eb-8873-95a6234fb096.png
 menu:
-    main: 
-        weight: 4
-        params:
-            icon: link
+  main: 
+    weight: 4
+    params:
+        icon: link
 
 comments: false
 ---
 
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.
+List of related projects.
