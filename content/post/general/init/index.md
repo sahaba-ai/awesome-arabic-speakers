@@ -12,7 +12,23 @@ categories:
   - Podcast
   - Project
 tags:
-  - Init
+  - Frontend
+  - Backend
+  - DevOps
+  - AI
+  - DataScience
+  - Cloud
+  - General
+  - Mobile
+  - Security
+  - MachineLearning
+  - WebDevelopment
+  - Programming
+  - OpenSource
+  - UX/UI
+  - Testing
+  - Automation
+  - Blockchain
 weight: 1
 ---
 
