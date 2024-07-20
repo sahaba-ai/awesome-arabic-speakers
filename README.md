@@ -44,6 +44,12 @@ Make sure you have the following installed on your machine:
 4. **Open Your Browser**:
     - Open your browser and go to `http://localhost:1313` to see the site running locally.
 
+5. **Reflect Changes Locally**:
+    - To build the project locally and see the changes, you need to run the Hugo server with the draft content enabled:
+    ```sh
+    hugo server -D
+    ```
+
 ### Notes for Windows Users ([Hugo Ref](https://gohugo.io/getting-started/quick-start/#commands))
 
 - Do not use the Command Prompt or Windows PowerShell.
