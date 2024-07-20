@@ -11,6 +11,7 @@ categories:
   - People
   - Podcast
   - Project
+  - Youtube channels
 tags:
   - Init
 weight: 1
