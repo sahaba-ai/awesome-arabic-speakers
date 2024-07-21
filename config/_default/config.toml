@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "/"
+baseurl = "https://awesome-arabic-speakers.dev/"
 languageCode = "en-us"
 relativeURLs = true
 paginate = 5
