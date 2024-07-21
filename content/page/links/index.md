@@ -13,6 +13,14 @@ links:
     description: Ultimate insight hub about Tech in Morocco.
     website: https://stateofdev.ma
     image: https://user-images.githubusercontent.com/11137944/101990595-01f5f280-3ca8-11eb-8873-95a6234fb096.png
+  - title: Tech Capsule In Arabic
+    description: مقالات بالعامية عن السيستم ديزاين و السوفتوير
+    website: https://techcapsuleinarabic.wordpress.com/
+    image: https://th.bing.com/th/id/OIG1.tXmgpk9aWdaMvtnIqRKy?w=1024&h=1024&rs=1&pid=ImgDetMain
+  - title: Cache me if you can
+    description: Bi weekly newsletter about Distributed systems, Frontned, Cybersecurity, Machine Learning and more
+    website: https://krietallo.hashnode.dev/
+    image: https://cdn.hashnode.com/res/hashnode/image/upload/v1692968376244/a48er72eF.jpg?w=500&h=500&fit=crop&crop=faces&auto=compress,format&format=webp 
 menu:
   main: 
     weight: 4
