@@ -1,16 +1,19 @@
 ---
 title: Init
 description: Welcome to Awesome Arabic Speakers project
-slug: main
-date: 2024-07-19 00:00:00+0000
+slug: init
+date: 2024-07-07 00:00:00+0000
 image: img/awesome-arabic-speakers.png
 categories:
   - Blog
   - Code
   - Event
-  - People
   - Podcast
   - Project
+  - Vodcast
+languages:
+  - Arabic
+  - English
 tags:
   - Frontend
   - Backend

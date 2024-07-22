@@ -14,4 +14,4 @@ This repo goal is to create a curated and collaborative list of awesome Arabic s
 
 ## Contribution
 
-The list covers many categories like `blog`,  `code`,  `event`, `people`, `podcast`, and `project`. The criteria of each category will be defined later.
+The list covers many categories like `blog`,  `code`,  `event`, `podcast`, `project`, and `vodcast`. The criteria of each category will be defined later.
