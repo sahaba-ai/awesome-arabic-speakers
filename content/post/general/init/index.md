@@ -18,7 +18,7 @@ tags:
   - Frontend
   - Backend
   - DevOps
-  - AI
+  - ArtificialIntelligence
   - DataScience
   - Cloud
   - General
@@ -28,10 +28,8 @@ tags:
   - WebDevelopment
   - Programming
   - OpenSource
-  - UX/UI
   - Testing
   - Automation
-  - Blockchain
 weight: 1
 ---
 
