@@ -15,7 +15,21 @@ languages:
   - Arabic
   - English
 tags:
-  - Init
+  - Frontend
+  - Backend
+  - DevOps
+  - ArtificialIntelligence
+  - DataScience
+  - Cloud
+  - General
+  - Mobile
+  - Security
+  - MachineLearning
+  - WebDevelopment
+  - Programming
+  - OpenSource
+  - Testing
+  - Automation
 weight: 1
 ---
 
