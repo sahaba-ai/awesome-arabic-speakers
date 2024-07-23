@@ -15,10 +15,10 @@ url = "https://github.com/sahaba-ai/awesome-arabic-speakers"
 [social.params]
 icon = "brand-github"
 
-# [[social]]
-# identifier = "twitter"
-# name = "Twitter"
-# url = "https://twitter.com"
+[[social]]
+identifier = "telegram"
+name = "Telegram"
+url = "https://t.me/AwesomeArabicSpeakers"
 
-# [social.params]
-# icon = "brand-twitter"
+[social.params]
+icon = "brand-telegram"
