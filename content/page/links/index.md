@@ -5,6 +5,10 @@ links:
     description: Ultimate insight hub about Tech in Egypt.
     website: https://egytech.fyi
     image: https://egytech.fyi/symbol.svg
+  - title: Egypt - Awesome Egypt Open Source
+    description: Curated list of awesome opensource projects started and maintained by Egyptian developers.
+    website: https://github.com/mfouad/awesome-egypt-opensource
+    image: https://raw.githubusercontent.com/mfouad/awesome-egypt-opensource/master/awesome-egyptian-oss-logo.png
   - title: Morocco - Awesome Morocco
     description: List of awesome Moroccan things for/by Developers.
     website: https://awesome-morocco.dev
