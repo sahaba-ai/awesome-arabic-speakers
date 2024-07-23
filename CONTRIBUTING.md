@@ -1,10 +1,10 @@
-# Contributing to Awesome Arabic Speakers
+# Contributing
 
-Thank you for your interest in contributing to the Awesome Arabic Speakers project! We appreciate your efforts and contributions.
+Thank you for being interested in contributing to the [Awesome Arabic Speakers](https://awesome-arabic-speakers.dev/) project! We appreciate your efforts and contributions.
 
 ## Running the Project Locally
 
-To run this project locally, follow these steps:
+To run this project locally, follow the next steps.
 
 ### Prerequisites
 
@@ -15,71 +15,67 @@ Make sure you have the following installed on your machine:
 
 ### Steps
 
-1. **Clone the Repository**:
+1. **Clone the repository**:
     ```sh
     git clone https://github.com/sahaba-ai/awesome-arabic-speakers.git
     cd awesome-arabic-speakers
     ```
 
-2. **Install Dependencies**:
+2. **Install dependencies**:
     ```sh
     hugo mod get
     ```
 
-3. **Run the Hugo Server**:
+3. **Run the Hugo server**:
     ```sh
     hugo server
     ```
 
-4. **Open Your Browser**:
+4. **Open your browser**:
     - Open your browser and go to `http://localhost:1313` to see the site running locally.
 
-5. **Reflect Changes Locally**:
+5. **Reflect changes locally**:
     - To build the project locally and see the changes, you need to run the Hugo server with the draft content enabled:
     ```sh
     hugo server -D
     ```
 
-### Notes for Windows Users
-
-- Do not use the Command Prompt or Windows PowerShell.
-- Use PowerShell or a Linux terminal such as WSL or Git Bash.
-
 ## How to Contribute
 
-We welcome contributions from everyone. The list covers many categories like `blog`, `code`, `event`, `people`, `podcast`, and `project`. The criteria of each category will be defined later.
+We welcome contributions from everyone. The list covers many [categories](https://awesome-arabic-speakers.dev/categories/) like `blog`, `code`, `event`, `podcast`, and `project`. The criteria of each category will be defined later.
 
 ### Steps to Contribute
 
-1. **Fork the Repository**:
+1. **Fork the repository**:
     - Click the "Fork" button at the top-right corner of this page to create a copy of this repository under your GitHub account.
 
-2. **Clone Your Fork**:
+2. **Clone your fork**:
     ```sh
     git clone https://github.com/<your-username>/awesome-arabic-speakers.git
     cd awesome-arabic-speakers
     ```
 
-3. **Create a New Branch**:
+3. **Create a new branch**:
     ```sh
     git checkout -b feature/your-feature-name
     ```
 
-4. **Make Your Changes**:
+4. **Make your changes**:
     - Add your contributions (e.g., new categories, links, or improvements).
 
-5. **Commit Your Changes**:
+5. **Commit your changes**:
+   We use the [Keep a Changelog](https://keepachangelog.com/en/1.1.0/#how) commit message convention.
     ```sh
     git add .
-    git commit -m "feat: add new feature"
+    git commit -m "added: add new feature"
     ```
 
-6. **Push to Your Fork**:
+6. **Push to your fork**:
     ```sh
     git push origin feature/your-feature-name
     ```
 
-7. **Create a Pull Request**:
+7. **Create a pull request**:
     - Go to the original repository on GitHub and create a new pull request from your fork.
 
 ### Contribution Guidelines
@@ -91,7 +87,3 @@ We welcome contributions from everyone. The list covers many categories like `bl
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-We appreciate all contributions from the community. Your efforts help make this project better and more valuable to everyone.

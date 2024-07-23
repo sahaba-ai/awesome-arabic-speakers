@@ -10,7 +10,7 @@
 
 [Arabic](https://en.wikipedia.org/wiki/Arabic) is the third most widespread official language after English and French! It has **380 million** native speakers of all varieties (2024).
 
-This repo's goal is to create a curated and collaborative list of awesome Arabic speaker's contributions in tech regardless of their ethnicity, nationality, or location. Also, the contributions don't have to be in Arabic to be useful and add value.
+This repo's goal is to create a curated and collaborative list of [Awesome Arabic Speaker](https://awesome-arabic-speakers.dev/)'s contributions in tech regardless of their ethnicity, nationality, or location. Also, the contributions don't have to be in Arabic to be useful and add value.
 
 ## Contribution
 
@@ -20,6 +20,6 @@ We welcome contributions from everyone. Please see the [CONTRIBUTING.md](CONTRIB
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
+## Acknowledgments
 
 We appreciate all contributions from the community. Your efforts help make this project better and more valuable to everyone.
