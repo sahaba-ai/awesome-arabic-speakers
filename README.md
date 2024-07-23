@@ -16,10 +16,15 @@ This repo's goal is to create a curated and collaborative list of [Awesome Arabi
 
 We welcome contributions from everyone. Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details on how to contribute.
 
+## Contributors
+
+Thanks to all contributors to this repository; your efforts help make this project better. 🙌
+
+<a href="https://github.com/sahaba-ai/awesome-arabic-speakers/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sahaba-ai/awesome-arabic-speakers" />
+</a>
+
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-We appreciate all contributions from the community. Your efforts help make this project better and more valuable to everyone.
+The project code is licensed under the [MIT License](LICENSE).
+The project content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
