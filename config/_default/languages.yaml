@@ -1,0 +1,24 @@
+---
+en:
+  languageName: English
+  languagedirection: ltr
+  title: Awesome Arabic Speakers
+  weight: 1
+  params:
+    description: |
+      An initiative to create a curated and collaborative list of Arabic Speakers' tech contributions regardless of ethnicity, nationality, or location. Also, the contributions don't have to be in Arabic to be useful and add value.
+    sidebar:
+      subtitle: |
+        An initiative to create a curated and collaborative list of Arabic Speakers' tech contributions regardless of ethnicity, nationality, or location. Also, the contributions don't have to be in Arabic to be useful and add value.
+
+ar:
+  languageName: Arabic
+  languagedirection: rtl
+  title: متحدثو العربية الرائعون
+  weight: 2
+  params:
+    description: |
+        مبادرة لإنشاء قائمة مختارة وتعاونية لمساهمات المتحدثين بالعربية في مجال التكنولوجيا، بغض النظر عن العرق أو الجنسية أو الموقع. كما أن المساهمات لا يجب بالضرورة أن تكون باللغة العربية لتكون مفيدة وتضيف قيمة.
+    sidebar:
+      subtitle: |
+        مبادرة لإنشاء قائمة مختارة وتعاونية لمساهمات المتحدثين بالعربية في مجال التكنولوجيا، بغض النظر عن العرق أو الجنسية أو الموقع. كما أن المساهمات لا يجب بالضرورة أن تكون باللغة العربية لتكون مفيدة وتضيف قيمة.

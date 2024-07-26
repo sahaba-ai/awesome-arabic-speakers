@@ -1,6 +1,6 @@
 ---
-title: Code
-description: Code projects or related
+title: Software
+description: Softwares deserve noteworthy
 image:
 
 # Badge style

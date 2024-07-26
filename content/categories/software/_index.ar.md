@@ -1,0 +1,10 @@
+---
+title: برمجيات
+description: برمجيات تستحق الإشادة
+image:
+
+# Badge style
+style:
+    background: "#3465a4"
+    color: "#fff"
+---

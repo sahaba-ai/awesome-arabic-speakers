@@ -6,10 +6,10 @@ date: 2024-07-07 00:00:00+0000
 image: img/awesome-arabic-speakers.png
 categories:
   - Audio
-  - Blog
-  - Code
   - Event
   - Project
+  - Software
+  - Text
   - Video
 languages:
   - Arabic
@@ -18,16 +18,16 @@ tags:
   - Frontend
   - Backend
   - DevOps
-  - ArtificialIntelligence
-  - DataScience
+  - Artificial Intelligence
+  - Data Science
   - Cloud
   - General
   - Mobile
   - Security
-  - MachineLearning
-  - WebDevelopment
+  - Machine Learning
+  - Web Development
   - Programming
-  - OpenSource
+  - Open Source
   - Testing
   - Automation
 weight: 1

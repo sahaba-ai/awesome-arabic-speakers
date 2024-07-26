@@ -1,3 +1,7 @@
+
+[![Arabic Website](https://img.shields.io/badge/Arabic-025E8C?style=flat-square&color=gray&label=AR&labelColor=yellowgreen)](https://awesome-arabic-speakers.dev/ar/)
+[![English Website](https://img.shields.io/badge/English-025E8C?style=flat-square&color=gray&label=EN&labelColor=yellowgreen)](https://awesome-arabic-speakers.dev/)
+
 # Awesome Arabic Speakers
 
 <p align="center">
@@ -8,11 +12,11 @@
 
 > A curated and collaborative list of Arabic speaker's contributions in tech.
 
-[Arabic](https://en.wikipedia.org/wiki/Arabic) is the third most widespread official language after English and French! It has **380 million** native speakers of all varieties (2024).
+[Arabic Language](https://en.wikipedia.org/wiki/Arabic) is the third most widespread official language after English and French! It has **380 million** native speakers of all varieties (2024).
 
 ## The Project
 
-This repo's goal is to create a curated and collaborative list of [Awesome Arabic Speaker](https://awesome-arabic-speakers.dev/)'s contributions in tech regardless of their ethnicity, nationality, or location. Also, the contributions don't have to be in Arabic to be useful and add value.
+[Awesome Arabic Speaker](https://awesome-arabic-speakers.dev/) is an initiative to create a curated and collaborative list of Arabic Speakers' tech contributions regardless of ethnicity, nationality, or location. Also, the contributions don't have to be in Arabic to be useful and add value.
 
 ## Contribution
 

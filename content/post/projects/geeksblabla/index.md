@@ -8,14 +8,17 @@ categories:
   - Audio
   - Event
   - Project
+  - Software
   - Video
 languages:
   - Arabic
+  - English
 tags:
+  - Morocco
   - Community
   - Conference
   - Darija
-  - Video
+  - Podcast
 ---
 
 [GeeksBlabla](https://geeksblabla.io) is a tech community that shares and debates the newest IT subjects in Darija, the Moroccan Arabic language. It includes episodes and podcasts on various tech-related topics, such as AI tools, software engineering, programming, and success stories of Moroccan IT workers. The site has extensive debates and a sizable library of episodes with various guest lecturers.
