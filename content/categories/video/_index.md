@@ -1,6 +1,6 @@
 ---
-title: Vodcast
-description: Vodcast deserve to watch
+title: Video
+description: Videos deserve to watch
 image:
 
 # Badge style

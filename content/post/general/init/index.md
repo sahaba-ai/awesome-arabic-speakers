@@ -5,12 +5,12 @@ slug: init
 date: 2024-07-07 00:00:00+0000
 image: img/awesome-arabic-speakers.png
 categories:
+  - Audio
   - Blog
   - Code
   - Event
-  - Podcast
   - Project
-  - Vodcast
+  - Video
 languages:
   - Arabic
   - English

@@ -5,9 +5,10 @@ slug: geeksblabla
 date: 2024-07-21 00:00:00+0000
 image: https://raw.githubusercontent.com/DevC-Casa/geeksblabla.com/master/static/images/logo.png
 categories:
+  - Audio
+  - Event
   - Project
-  - Podcast
-  - Vodcast
+  - Video
 languages:
   - Arabic
 tags:

@@ -1,6 +1,6 @@
 ---
-title: Podcast
-description: Podcasts deserve to listen
+title: Audio
+description: Audios deserve to listen
 image:
 
 # Badge style

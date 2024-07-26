@@ -32,51 +32,51 @@ Make sure you have the following installed on your machine:
     ```
 
 4. **Open your browser**:
-    - Open your browser and go to `http://localhost:1313` to see the site running locally.
+    Open your browser and go to `http://localhost:1313` to see the site running locally.
 
-5. **Reflect changes locally**:
-    - To build the project locally and see the changes, you need to run the Hugo server with the draft content enabled:
+1. **Reflect changes locally**:
+    To build the project locally and see the changes, you need to run the Hugo server with the draft content enabled:
     ```sh
     hugo server -D
     ```
 
 ## How to Contribute
 
-We welcome contributions from everyone. The list covers many [categories](https://awesome-arabic-speakers.dev/categories/) like `blog`, `code`, `event`, `podcast`, and `project`. The criteria of each category will be defined later.
+We welcome contributions from everyone. The list covers many [categories](https://awesome-arabic-speakers.dev/categories/) like `audio`, `blog`, `code`, `event`, `project`, and `video`. The criteria of each category will be defined later.
 
 ### Steps to Contribute
 
 1. **Fork the repository**:
-    - Click the "Fork" button at the top-right corner of this page to create a copy of this repository under your GitHub account.
+    Click the "Fork" button at the top-right corner of this page to create a copy of this repository under your GitHub account.
 
-2. **Clone your fork**:
+1. **Clone your fork**:
     ```sh
     git clone https://github.com/<your-username>/awesome-arabic-speakers.git
     cd awesome-arabic-speakers
     ```
 
-3. **Create a new branch**:
+2. **Create a new branch**:
     ```sh
     git checkout -b feature/your-feature-name
     ```
 
-4. **Make your changes**:
-    - Add your contributions (e.g., new categories, links, or improvements).
+3. **Make your changes**:
+    Add your contributions (e.g., new categories, links, or improvements).
 
-5. **Commit your changes**:
-   We use the [Keep a Changelog](https://keepachangelog.com/en/1.1.0/#how) commit message convention.
+4. **Commit your changes**:
+    We use the [Keep a Changelog](https://keepachangelog.com/en/1.1.0/#how) commit message convention.
     ```sh
     git add .
     git commit -m "added: add new feature"
     ```
 
-6. **Push to your fork**:
+5. **Push to your fork**:
     ```sh
     git push origin feature/your-feature-name
     ```
 
-7. **Create a pull request**:
-    - Go to the original repository on GitHub and create a new pull request from your fork.
+6. **Create a pull request**:
+   Go to the original repository on GitHub and create a new pull request from your fork.
 
 ### Contribution Guidelines
 
@@ -86,4 +86,5 @@ We welcome contributions from everyone. The list covers many [categories](https:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+The project code is licensed under the [MIT License](LICENSE).
+The project content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
