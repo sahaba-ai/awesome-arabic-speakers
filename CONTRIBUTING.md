@@ -2,6 +2,21 @@
 
 Thank you for being interested in contributing to the [Awesome Arabic Speakers](https://awesome-arabic-speakers.dev/) project! We appreciate your efforts and contributions.
 
+## Criteria
+
+Awesome Arabic Speakers is an awesome list. `Awesome` lists are curations of the best, **not everything**.
+
+So, we define the criteria for contributions per category as follows (we probably will change it a bit over time):
+
+- [Project](https://awesome-arabic-speakers.dev/categories/project/) (like organization or community): It should be established for at least a year and has a clear impact.
+- [Software](https://awesome-arabic-speakers.dev/categories/software/) (like code): It should have between 50 and 100 stars on GitHub (or equivalent on other platforms).
+- [Audio](https://awesome-arabic-speakers.dev/categories/audio/) (like podcast): It should have between 5K and 10K subscribers.
+- [Video](https://awesome-arabic-speakers.dev/categories/video/) (like vodcast or video tutorials): It should have around 10K subscribers.
+- [Event](https://awesome-arabic-speakers.dev/categories/event/) (like conference): It should be conducted at least 2 times if it's yearly, 4 times if it's quarterly, and 8 times if it's monthly.
+- [Text](https://awesome-arabic-speakers.dev/categories/text/) (like blog): It should be live for over a year and has at least 12 posts.
+
+Some exceptions may be allowed, but only in the narrowest limits.
+
 ## Running the Project Locally
 
 To run this project locally, follow the next steps.
