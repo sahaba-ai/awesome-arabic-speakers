@@ -10,3 +10,8 @@ social:
     url: https://t.me/AwesomeArabicSpeakers
     params:
       icon: brand-telegram
+  - identifier: twitter
+    name: Twitter
+    url: https://x.com/AwesomeArabic
+    params:
+      icon: brand-twitter
