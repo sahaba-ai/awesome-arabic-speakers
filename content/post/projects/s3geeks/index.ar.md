@@ -3,7 +3,7 @@ title: صعيدي جيكس
 description: منصة روّاد الأعمال والتقنيين بصعيد مصر
 slug: s3geeks
 date: 2024-08-04 00:00:00+0000
-image: https://avatars.githubusercontent.com/u/11800053
+image: s3geeks.jpg
 categories:
   - Project
   - Events

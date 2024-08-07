@@ -3,7 +3,7 @@ title: منارة
 description: تحسين الاقتصادات المحلية من خلال المواهب التقنية.
 slug: manara
 date: 2024-08-07 00:00:00+0000
-image: manara.webp
+image: manara.svg
 categories:
   - Project
 languages:
