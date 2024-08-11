@@ -2,7 +2,7 @@
 You can add your own custom styles here.
 */
 
-@media (min-width: 960px) {
+@media only screen and (min-width: 768px) {
     * {
         --left-sidebar-max-width: 100%;
         --right-sidebar-max-width: 100%;
@@ -12,37 +12,40 @@ You can add your own custom styles here.
     .container {
         display: grid;
         grid-template-columns: auto;
-        grid-template-rows: 150px auto;
+        grid-template-rows: 110px auto;
     }
+
     .sidebar.left-sidebar.sticky {
         order: 1;
         position: unset;
         display: grid;
-        grid-template-columns: 100px auto;
+        grid-template-columns: 110px auto;
         grid-template-rows: 100px 50px;
         grid-template-areas:
-            "headerLogo navBarMenu"
-            "socialMedia socialMedia";
+            "headerLogo navBarMenu navBarMenu navBarMenu navBarMenu navBarMenu navBarMenu navBarMenu navBarMenu socialMedia";
         height: fit-content;
         padding: 0;
+
         button.hamburger {
             display: none;
         }
+
         header {
             grid-area: headerLogo;
             .site-meta {
                 display: none;
             }
         }
+
         ol.menu-social {
             grid-area: socialMedia;
+            padding-top: 42px;
         }
+
         ol#main-menu {
-            grid-area: navBarMenu;
             flex-direction: row;
             align-items: baseline;
-            padding-top: 32px;
-            gap: 16px;
+            padding-top: 42px;
             .menu-bottom-section {
                 margin: 0;
                 width: 100%;
@@ -57,21 +60,22 @@ You can add your own custom styles here.
             }
         }
     }
+
     .sidebar.right-sidebar.sticky {
         order: 2;
         position: unset;
         display: grid;
         grid-template-columns: repeat(4, 1fr);
         grid-template-areas:
-            "search search search search"
-            "archives language categories categories"
+            "language language categories categories"
             "tags tags tags tags";
         padding: 0;
+        row-gap: 20px;
 
-        row-gap: 10px;
         .search-form {
             grid-area: search;
         }
+
         .archives {
             grid-area: archives;
         }
@@ -101,16 +105,19 @@ You can add your own custom styles here.
             }
         }
 
-        .widget.tagCloud:nth-child(3) {
+        .widget.tagCloud:nth-child(1) {
             grid-area: language;
         }
-        .widget.tagCloud:nth-child(4) {
+
+        .widget.tagCloud:nth-child(2) {
             grid-area: categories;
         }
-        .widget.tagCloud:nth-child(5) {
+
+        .widget.tagCloud:nth-child(3) {
             grid-area: tags;
         }
     }
+
     main.main {
         order: 3;
         padding: 0;

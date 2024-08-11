@@ -2,7 +2,7 @@
 baseurl: https://awesome-arabic-speakers.dev/
 languageCode: en-us
 relativeURLs: true
-paginate: 5
+paginate: 6
 title: Awesome Arabic Speakers
 
 # Theme i18n support
