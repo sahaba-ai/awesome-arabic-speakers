@@ -24,6 +24,7 @@ article:
     default: ""
 widgets:
   homepage:
+    - type: site-meta
     - type: languages
       params:
         limit: 10

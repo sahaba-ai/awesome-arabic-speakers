@@ -31,6 +31,7 @@ You can add your own custom styles here.
 
         header {
             grid-area: headerLogo;
+
             .site-meta {
                 display: none;
             }
@@ -43,15 +44,18 @@ You can add your own custom styles here.
         ol#main-menu {
             flex-direction: row;
             align-items: baseline;
+
             .menu-bottom-section {
                 margin: 0;
                 width: 100%;
                 flex: 1;
+
                 .menu {
                     flex-direction: row;
                     justify-content: flex-end;
                 }
             }
+
             li {
                 width: fit-content;
             }
@@ -64,6 +68,7 @@ You can add your own custom styles here.
         display: grid;
         grid-template-columns: repeat(4, 1fr);
         grid-template-areas:
+            "site-meta site-meta site-meta site-meta"
             "language language categories categories"
             "tags tags tags tags";
         padding: 0;
@@ -85,32 +90,40 @@ You can add your own custom styles here.
             grid-template-areas:
                 "widgetIcon widgetTitle"
                 "widgetContent widgetContent";
+
             .widget-icon {
                 grid-area: widgetIcon;
             }
+
             .widget-title {
                 grid-area: widgetTitle;
                 margin: 0;
                 line-height: 32px;
             }
+
             .tagCloud-tags,
             .widget-archive--list {
                 grid-area: widgetContent;
+
                 a {
                     height: fit-content;
                 }
             }
         }
 
-        .widget.tagCloud:nth-child(1) {
-            grid-area: language;
+        .site-meta:nth-child(1) {
+            grid-area: site-meta;
         }
 
         .widget.tagCloud:nth-child(2) {
-            grid-area: categories;
+            grid-area: language;
         }
 
         .widget.tagCloud:nth-child(3) {
+            grid-area: categories;
+        }
+
+        .widget.tagCloud:nth-child(4) {
             grid-area: tags;
         }
     }
@@ -124,4 +137,36 @@ You can add your own custom styles here.
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
     }
+}
+
+/* Site info in the widgets */
+
+.site-meta {
+    padding-bottom: 20px;
+}
+
+.sidebar header .site-avatar .site-logo {
+    width: 90%;
+    height: 90%;
+    box-shadow: none;
+}
+
+[data-scheme="dark"] {
+    .site-avatar a img {
+        text-decoration: none;
+        filter: grayscale(50%) invert(100%) brightness(95%) hue-rotate(180deg);
+    }
+}
+
+.site-name {
+    color: var(--accent-color);
+    margin: 0 0 6px 0;
+    font-size: 2rem;
+}
+
+.site-description {
+    color: var(--body-text-color);
+    font-weight: 400;
+    margin: 0;
+    font-size: 1.6rem;
 }
