@@ -2,8 +2,12 @@
 baseurl: https://awesome-arabic-speakers.dev/
 languageCode: en-us
 relativeURLs: true
-paginate: 5
+paginate: 6
 title: Awesome Arabic Speakers
+
+services:
+  googleAnalytics:
+    id: G-TX4GN1CNZN
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
