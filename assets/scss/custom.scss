@@ -19,12 +19,11 @@ You can add your own custom styles here.
         order: 1;
         position: unset;
         display: grid;
-        grid-template-columns: 110px auto;
-        grid-template-rows: 100px 50px;
-        grid-template-areas:
-            "headerLogo navBarMenu navBarMenu navBarMenu navBarMenu navBarMenu navBarMenu navBarMenu navBarMenu socialMedia";
+        grid-template-columns: 110px auto 100px;
+        grid-template-areas: "headerLogo navBarMenu socialMedia";
         height: fit-content;
         padding: 0;
+        align-items: center;
 
         button.hamburger {
             display: none;
@@ -39,13 +38,11 @@ You can add your own custom styles here.
 
         ol.menu-social {
             grid-area: socialMedia;
-            padding-top: 42px;
         }
 
         ol#main-menu {
             flex-direction: row;
             align-items: baseline;
-            padding-top: 42px;
             .menu-bottom-section {
                 margin: 0;
                 width: 100%;
