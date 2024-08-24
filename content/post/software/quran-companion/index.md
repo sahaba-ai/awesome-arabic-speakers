@@ -13,8 +13,8 @@ tags:
   - Islam
   - Quran
   - Egypt
-  - Community
-  - Open-source
+  - Open Source
+  - C++
 ---
 
-[Quran Companion](https://0xzer0x.github.io/projects/quran-companion/) is a cross-platform Quran reader and player with recitation download capabilities, verse highlighting, resizable Quran font, and a variety of tafsir books & translations.
+[Quran Companion](https://github.com/0xzer0x/quran-companion) is a cross-platform Quran reader and player with recitation download capabilities, verse highlighting, resizable Quran font, and a variety of tafsir books & translations.
