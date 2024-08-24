@@ -1,6 +1,6 @@
 ---
 title: Manara
-description: Uplift local economies with tech talents.
+description: Uplift local economies with tech talents
 slug: manara
 date: 2024-08-07 00:00:00+0000
 image: manara.svg

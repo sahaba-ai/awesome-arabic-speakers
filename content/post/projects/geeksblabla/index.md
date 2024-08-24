@@ -5,11 +5,10 @@ slug: geeksblabla
 date: 2024-07-21 00:00:00+0000
 image: geeksblabla.svg
 categories:
-  - Audio
   - Event
+  - Multimedia
   - Project
   - Software
-  - Video
 languages:
   - Arabic
   - English

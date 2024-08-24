@@ -3,7 +3,7 @@ title: المصدر المفتوح اليمني
 description: منصة مفتوحة المصدر من المطورين اليمنيين إلى المطورين اليمنيين
 slug: yemen-open-source
 date: 2024-07-27 00:00:00+0000
-image: https://avatars.githubusercontent.com/u/106908034
+image: yemen-open-source.jpeg
 categories:
   - Project
   - Software

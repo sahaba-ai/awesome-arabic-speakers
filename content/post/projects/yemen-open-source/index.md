@@ -3,7 +3,7 @@ title: Yemen Open Source
 description: An open-source platform from Yemeni developers to Yemeni developers
 slug: yemen-open-source
 date: 2024-07-27 00:00:00+0000
-image: https://avatars.githubusercontent.com/u/106908034
+image: yemen-open-source.jpeg
 categories:
   - Project
   - Software

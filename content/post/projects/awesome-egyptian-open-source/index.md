@@ -3,7 +3,7 @@ title: Awesome Egyptian Open Source
 description: A Curated list of awesome open-source projects started and maintained by Egyptian developers 
 slug: awesome-egyptian-open-source
 date: 2024-07-27 00:00:00+0000
-image: https://raw.githubusercontent.com/mfouad/awesome-egypt-opensource/master/awesome-egyptian-oss-logo.png
+image: awesome-egyptian-open-source.png
 categories:
   - Project
   - Software

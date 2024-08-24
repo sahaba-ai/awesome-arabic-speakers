@@ -1,6 +1,6 @@
 ---
-title: مرئي
-description: مرئيات تستحق المشاهدة
+title: Multimedia
+description: Multimedia deserve to praise
 image:
 
 # Badge style

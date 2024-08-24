@@ -13,6 +13,6 @@
 
 ### Checklist
 
-- [ ] Ensure to check our [Contribution Criteria](./CONTRIBUTING.md#criteria).
+- [ ] Ensure to check our [Contribution Criteria](../blob/main/CONTRIBUTING.md#criteria).
 - [ ] The contribution doesn't already exist (you can use [search functionality](https://awesome-arabic-speakers.dev/search/)).
 - [ ] The contribution is provided in both Arabic and English.

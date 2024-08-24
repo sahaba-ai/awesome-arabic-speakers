@@ -3,13 +3,12 @@ title: GeeksBlaBla
 description: GeeksBlaBla هي مبادرة مجتمعية لمناقشة وتسليط الضوء ومشاركة أحدث مواضيع تكنولوجيا المعلومات باللهجة المغربية (الدارجة)
 slug: geeksblabla
 date: 2024-07-21 00:00:00+0000
-image: geeksblabla.webp
+image: geeksblabla.svg
 categories:
-  - Audio
   - Event
+  - Multimedia
   - Project
   - Software
-  - Video
 languages:
   - Arabic
   - English

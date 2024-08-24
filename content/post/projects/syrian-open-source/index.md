@@ -3,7 +3,7 @@ title: Syrian Open Source
 description: An open-source platform that contains everything that was launched by Syrian developers and everything we think is interesting to publish
 slug: syrian-open-source
 date: 2024-07-27 00:00:00+0000
-image: https://raw.githubusercontent.com/Syrian-Open-Source/.github/main/assets/image.PNG
+image: syrian-open-source.png
 categories:
   - Project
   - Software

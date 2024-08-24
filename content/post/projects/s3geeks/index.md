@@ -1,6 +1,6 @@
 ---
 title: S3Geeks
-description: A platform for entrepreneurs and tech enthusiasts in Upper Egypt.
+description: A platform for entrepreneurs and tech enthusiasts in Upper Egypt
 slug: s3geeks
 date: 2024-08-04 00:00:00+0000
 image: s3geeks.jpg

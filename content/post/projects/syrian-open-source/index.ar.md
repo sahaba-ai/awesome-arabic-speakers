@@ -3,7 +3,7 @@ title: المصادر المفتوحة السورية
 description: منصة مفتوحة المصدر تحتوي على قائمة مختارة مما أنتجه المطورون السوريون
 slug: syrian-open-source
 date: 2024-07-27 00:00:00+0000
-image: https://raw.githubusercontent.com/Syrian-Open-Source/.github/main/assets/image.PNG
+image: syrian-open-source.png
 categories:
   - Project
   - Software
