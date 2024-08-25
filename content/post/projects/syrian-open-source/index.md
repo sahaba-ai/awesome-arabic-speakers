@@ -1,6 +1,6 @@
 ---
 title: Syrian Open Source
-description: An open-source platform that contains everything that was launched by Syrian developers and everything we think is interesting to publish
+description: An initiative contains contributions that launched by Syrian developers
 slug: syrian-open-source
 date: 2024-07-27 00:00:00+0000
 image: syrian-open-source.png

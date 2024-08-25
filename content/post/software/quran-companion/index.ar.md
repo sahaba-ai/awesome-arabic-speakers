@@ -1,6 +1,6 @@
 ---
 title: رفيق القرآن
-description: قارئ ومشغل القرآن الكريم لسطح المكتب مجاني و مفتوح المصدر
+description: تطبيق قارئ ومشغل القرآن الكريم لسطح المكتب مجاني و مفتوح المصدر
 slug: quran-companion
 date: 2024-08-12 00:00:00+0000
 image: quran-companion.png

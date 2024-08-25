@@ -1,6 +1,6 @@
 ---
 title: Quran Companion
-description: Free and open-source Quran reader and player
+description: Cross-platform desktop Quran reader and player
 slug: quran-companion
 date: 2024-08-12 00:00:00+0000
 image: quran-companion.png
