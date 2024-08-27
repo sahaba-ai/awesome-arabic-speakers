@@ -1,7 +1,7 @@
 ---
 title: فلاتر بوند
 description: إطار عمل لتطوير تطبيقات الهاتف المحمول مبني على فلاتر
-slug: فلاتر-بوند
+slug: flutter-bond
 date: 2024-08-27 21:00:00+0000
 image: flutter-bond.png
 categories:
