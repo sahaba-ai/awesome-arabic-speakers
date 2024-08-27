@@ -35,4 +35,4 @@ weight: 1
 
 [Arabic](https://en.wikipedia.org/wiki/Arabic) is the third most widespread official language after English and French! It has **380 million** native speakers of all varieties (2024).
 
-We welcome contributions from everyone. The list covers many [categories](https://awesome-arabic-speakers.dev/categories/) like `audio`, `blog`, `code`, `event`, `multimedia`, and `project`.
+We welcome contributions from everyone. The list covers many [categories](https://awesome-arabic-speakers.dev/categories/) like [Entity](https://awesome-arabic-speakers.dev/categories/entity/), [Software](https://awesome-arabic-speakers.dev/categories/software/), [Multimedia](https://awesome-arabic-speakers.dev/categories/multimedia/), [Text](https://awesome-arabic-speakers.dev/categories/text/), and [Event](https://awesome-arabic-speakers.dev/categories/event/).
