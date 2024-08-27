@@ -10,10 +10,9 @@ languages:
   - Arabic
 tags:
   - Egypt
-  - Middle East
+  - Frontend
   - Podcast
-  - Programming
   - Software
 ---
 
-[Untyped](https://untyped.fm) بودكاست اسبوعي تتراوح مدة حلقاته بين 30 إلى 45 دقيقة يتناول مواضيع متعلقة بالفرونت اند والجافاسكريبت باللغة العربية
+[Untyped](https://untyped.fm) هو بودكاست أسبوعي تتراوح مدة حلقاته بين 30 إلى 45 دقيقة يتناول مواضيع متعلقة بالفرونت اند والجافاسكريبت باللغة العربية.
