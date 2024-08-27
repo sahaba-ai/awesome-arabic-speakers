@@ -5,7 +5,7 @@ slug: awesome-egyptian-open-source
 date: 2024-07-27 00:00:00+0000
 image: awesome-egyptian-open-source.png
 categories:
-  - Project
+  - Entity
   - Software
 languages:
   - English

@@ -7,7 +7,7 @@ aliases:
 date: 2024-07-07 00:00:00+0000
 image: img/awesome-arabic-speakers.png
 categories:
-  - Project
+  - Entity
   - Text
 languages:
   - Arabic

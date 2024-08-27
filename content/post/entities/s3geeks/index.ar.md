@@ -5,7 +5,7 @@ slug: s3geeks
 date: 2024-08-04 00:00:00+0000
 image: s3geeks.jpg
 categories:
-  - Project
+  - Entity
   - Event
 languages:
   - Arabic

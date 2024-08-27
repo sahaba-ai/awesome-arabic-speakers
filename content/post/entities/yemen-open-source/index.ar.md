@@ -5,7 +5,7 @@ slug: yemen-open-source
 date: 2024-07-27 00:00:00+0000
 image: yemen-open-source.jpeg
 categories:
-  - Project
+  - Entity
   - Software
 languages:
   - Arabic

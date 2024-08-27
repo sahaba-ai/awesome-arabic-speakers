@@ -1,6 +1,6 @@
 ---
-title: مشروع
-description: مشاريع تستحق الثناء
+title: كيان
+description: كيانات تستحق الثناء
 image:
 
 # Badge style

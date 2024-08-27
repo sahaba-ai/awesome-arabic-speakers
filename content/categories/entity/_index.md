@@ -1,6 +1,6 @@
 ---
-title: Project
-description: Projects deserve to praise
+title: Entity
+description: Entities deserve to praise
 image:
 
 # Badge style

@@ -7,7 +7,7 @@ image: geeksblabla.svg
 categories:
   - Event
   - Multimedia
-  - Project
+  - Entity
   - Software
 languages:
   - Arabic

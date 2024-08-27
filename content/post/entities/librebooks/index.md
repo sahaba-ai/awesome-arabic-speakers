@@ -5,7 +5,7 @@ slug: librebooks
 date: 2024-08-25 00:00:00+0000
 image: librebooks.png
 categories:
-  - Project
+  - Entity
 languages:
   - Arabic
 tags:
