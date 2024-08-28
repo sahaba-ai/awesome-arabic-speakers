@@ -1,10 +1,10 @@
 # Contributing
 
-Thank you for being interested in contributing to the [Awesome Arabic Speakers](https://awesome-arabic-speakers.dev/) project! We appreciate your efforts and contributions.
+Thank you for your interest in contributing to the [Awesome Arabic Speakers](https://awesome-arabic-speakers.dev/) project. We appreciate your efforts and contributions.
 
 ## Criteria
 
-Awesome Arabic Speakers is an awesome list. `Awesome` lists are curations of the best, **not everything**.
+Awesome Arabic Speakers is an awesome list. `Awesome` lists are curated of the best, **not everything**.
 
 So, we define the criteria for contributions per category as follows (we probably will change it a bit over time):
 
@@ -14,7 +14,7 @@ So, we define the criteria for contributions per category as follows (we probabl
 - [Multimedia](https://awesome-arabic-speakers.dev/categories/multimedia/) (like podcast, vodcast. or video tutorials): It should have around 10K subscribers.
 - [Text](https://awesome-arabic-speakers.dev/categories/text/) (like blog): It should be live for over a year and has at least 12 posts.
 
-Some exceptions may be allowed, but only in the narrowest limits.
+Some exceptions may be allowed, but only in the narrowest limits (e.g., when the project is unique).
 
 ## Running the Project Locally
 
@@ -24,7 +24,7 @@ To run this project locally, follow the next steps.
 
 Make sure you have the following installed on your machine:
 
-- [Hugo (extended edition, v0.112.0 or later)](https://gohugo.io/getting-started/installing/)
+- [Hugo](https://gohugo.io/getting-started/installing/) (**extended edition v0.129.0** or later)
 - [Git](https://git-scm.com/)
 
 ### Steps
@@ -56,7 +56,7 @@ Make sure you have the following installed on your machine:
 
 ## How to Contribute
 
-We welcome contributions from everyone. The list covers many [categories](https://awesome-arabic-speakers.dev/categories/) like `blog`, `code`, `event`, `multimedia`, and `project`. For more details, check the [criteria for each section](#criteria).
+We welcome contributions from everyone. The list covers many [categories](https://awesome-arabic-speakers.dev/categories/) like `Entity`, `Software`, `Multimedia`, `Text`, and `Event`. For more details, check the [criteria for each section](#criteria).
 
 ### Steps to Contribute
 

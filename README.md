@@ -24,7 +24,7 @@
 
 ## Contribution
 
-We welcome contributions from everyone. The list covers many [categories](https://awesome-arabic-speakers.dev/categories/) like `audio`, `blog`, `code`, `event`, `multimedia`, and `project`.
+We welcome contributions from everyone. The list covers many [categories](https://awesome-arabic-speakers.dev/categories/) like `Entity`, `Software`, `Multimedia`, `Text`, and `Event`.
 
 Please check the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details on how to contribute.
 
