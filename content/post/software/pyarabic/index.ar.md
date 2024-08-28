@@ -1,8 +1,8 @@
 ---
 title: PyArabic
-description: مكتبة برمجية للغة العربية بلغة بيثون،
-slug: PyArabic
-date: 2024-08-27 00:00:00+0000
+description: مكتبة بايثون للجوانب المتعلقة باللغة العربية
+slug: pyarabic
+date: 2024-08-28 00:00:00+0000
 image: pyarabic.png
 categories:
   - Software
@@ -10,11 +10,10 @@ languages:
   - Arabic
   - English
 tags:
-  - text-processing
-  - NLP library
-  - Arabic language
+  - Text Processing
+  - Arabic
   - Open Source
   - Python
 ---
 
-[PyArabic](https://github.com/linuxscout/pyarabic) مكتبة برمجية للغة العربية بلغة بيثون، توفر دوالا للتحكم في الحروف والنصوص، مثلا تحديد نوع الحرف، حذف الحركات، مقارنة التشكيل..مكتبة 
+[PyArabic](https://github.com/linuxscout/pyarabic) مكتبة برمجية بلغة بايثون للغة العربية، توفر دوالًا للتحكم في الحروف والنصوص، على سبيل المثال تحديد نوع الحرف، حذف الحركات، مقارنة التشكيل، وغيرهم.
