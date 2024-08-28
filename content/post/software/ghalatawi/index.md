@@ -10,10 +10,10 @@ languages:
   - Arabic
   - English
 tags:
-  - Text Processing
   - Arabic
   - Open Source
   - Python
+  - Text Processing
 ---
 
-[Ghalatawi](https://github.com/linuxscout/ghalatawi) This Project aims to construct a word list and a list of regular expressions for Arabic auto-correction.
+[Ghalatawi](https://github.com/linuxscout/ghalatawi) a project aims to construct a word list, a list of regular expressions, and Python library for Arabic auto-correction.
