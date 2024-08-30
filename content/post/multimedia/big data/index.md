@@ -1,9 +1,9 @@
 ---
 title: Big Data in Arabic
 description: A free educational channel in Arabic explaining Big Data, SQL, Python, Hadoop, Linux, Git, and GitHub, with open access content for everyone.
-slug: bigdata
+slug: big-data-in-arabic
 date: 2024-08-28 00:00:00+0000
-image: bigdata.png
+image: big-data-in-arabic.png
 categories:
   - Multimedia
 languages:

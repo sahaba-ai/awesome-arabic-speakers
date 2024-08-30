@@ -1,9 +1,9 @@
 ---
 title: بالعربي Big Data
 description: قناة تعليمية مجانية باللغة العربية تشرح Big Data، SQL، Python، Hadoop، Linux، Git، وGitHub، وتقدم محتوى تقني متاح للجميع بدون حقوق ملكية
-slug: bigdata
+slug: big-data-in-arabic
 date: 2024-08-28 00:00:00+0000
-image: bigdata.png
+image: big-data-in-arabic.png
 categories:
   - Multimedia
 languages:
