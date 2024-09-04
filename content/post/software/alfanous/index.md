@@ -1,9 +1,9 @@
 ---
 title: Alfanous
-description: Quranic search engine, that can find any word or aya in the Holy Quran 
-slug: alfanous-quran-search-engin
-date: 2024-08-28 00:00:00+0000
-image: alfanous.webp
+description: Quranic search engine, that can find any word or ayah
+slug: alfanous
+date: 2024-09-04 00:00:00+0000
+image: alfanous.png
 categories:
   - Software
 languages:
@@ -11,9 +11,10 @@ languages:
   - English
 tags:
   - Islam
-  - Quran
   - Open Source
   - Python
+  - Quran
+  - Search
 ---
 
-[Alfanous](https://alfanous.org) Alfanous is a Quranic search engine, that can find any word or aya in the Holy Quran 
+[Alfanous](https://alfanous.org) is an Arabic search engine API provides the simple and advanced search in Quran, more features and many interfaces (e.g, Web UI and Console UI).
