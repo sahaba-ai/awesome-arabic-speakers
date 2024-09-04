@@ -17,4 +17,4 @@ tags:
   - Search
 ---
 
-[Alfanous](https://alfanous.org) is an Arabic search engine API provides the simple and advanced search in Quran, more features and many interfaces (e.g, Web UI and Console UI).
+[Alfanous](https://github.com/Alfanous-team/alfanous) is an Arabic search engine API provides the simple and advanced search in Quran, more features and many interfaces (e.g, Web UI and Console UI).
