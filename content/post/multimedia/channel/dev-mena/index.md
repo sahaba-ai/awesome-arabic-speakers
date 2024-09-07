@@ -1,7 +1,7 @@
 ---
-title: DEV MENA Channel
-description: is a YouTube channel that offers talks and workshops on technology and leadership.
-slug: dev-mena-channel
+title: DevMENA Channel
+description: A YouTube channel offers talks and workshops on technology and leadership
+slug: devmena
 date: 2024-09-07 00:00:00+0000
 image: devmena.png
 categories:
@@ -10,9 +10,10 @@ languages:
   - Arabic
 tags: 
   - Channel
-  - Youtube
-  - MiddleEast
   - Community
+  - Middle East
+  - Programming
+  - Youtube
 ---
 
-[DEV MENA Channel](https://www.youtube.com/@DevMENA) Dev MENA is a YouTube channel that offers talks and workshops on technology and leadership. From Sunday to Thursday, it shares insights to help viewers stay informed and inspired in the tech world.
+[DevMENA](https://www.youtube.com/@DevMENA) is a community YouTube channel offers talks and workshops on technology and leadership. It shares insights to help viewers stay informed and inspired in the tech world.

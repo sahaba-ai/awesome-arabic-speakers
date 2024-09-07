@@ -1,7 +1,7 @@
 ---
-title: DEV MENA قناة
-description: هي قناة على يوتيوب تقدم محاضرات وورش عمل حول التكنولوجيا والقيادة.
-slug: dev-mena-channel
+title: DevMENA قناة
+description: قناة يوتيوب تقدم محاضرات وورش عمل حول التكنولوجيا والقيادة
+slug: devmena
 date: 2024-09-07 00:00:00+0000
 image: devmena.png
 categories:
@@ -10,9 +10,10 @@ languages:
   - Arabic
 tags: 
   - Channel
-  - Youtube
-  - MiddleEast
   - Community
+  - Middle East
+  - Programming
+  - Youtube
 ---
 
-[DEV MENA قناة](https://www.youtube.com/@DevMENA) Dev MENA هي قناة على يوتيوب تقدم محاضرات وورش عمل حول التكنولوجيا والقيادة. من الأحد إلى الخميس، تشارك القناة رؤى لإبقاء المشاهدين على اطلاع وإلهام في مجال التكنولوجيا.
+[DevMENA](https://www.youtube.com/@DevMENA) قناة يوتيوب تقدم محاضرات وورش عمل حول التكنولوجيا والقيادة. تشارك القناة محتوى لإبقاء المشاهدين على إطلاع بجديد مجال التكنولوجيا وإلهامهم تقنياً.
