@@ -2,7 +2,6 @@
 baseurl: https://awesome-arabic-speakers.dev/
 languageCode: en-us
 relativeURLs: true
-paginate: 9
 title: Awesome Arabic Speakers
 
 services:
@@ -16,6 +15,9 @@ defaultContentLanguage: en
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
 hasCJKLanguage: false
+
+pagination:
+  pagerSize: 9
 
 taxonomies:
   category: categories
