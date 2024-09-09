@@ -1,20 +1,19 @@
 ---
-title: قناة Arabic Competitive Programming 
-description: تحتوي القناة على قائمة تشغيل لـ C++ وخوارزميات البرمجة التنافسية.
+title: Arabic Competitive Programming 
+description: القناة تعليمية تهتم بلغة برمجة C++ والخوارزميات والبرمجة التنافسية
 slug: arabic-competitive-programming
 date: 2024-09-07 00:00:00+0000
-image: arabicCompetitiveProgramming.png
+image: arabic-competitive-programming.png
 categories:
   - Multimedia
 languages:
   - Arabic
 tags: 
-  - Channel
-  - Community
-  - Programming
-  - Youtube
-  - C++
   - Algorithms
+  - C++
+  - Channel
+  - Competitive Programming
+  - Programming
 ---
 
-[Arabic Competitive Programming](https://www.youtube.com/@ArabicCompetitiveProgramming) تحتوي هذه القناة على 3 أشياء مختلفة: قائمة تعلم برمجه بلغه C ++ ، ونصائح للطلاب في علوم الكمبيوتر، ومجموعة كبيرة لشرح الخوارزميات  للبرمجة التنافسية.
+[Arabic Competitive Programming](https://www.youtube.com/@ArabicCompetitiveProgramming) قناة تركز على ثلاثة مجالات رئيسية: البرمجة باستخدام لغة C++، نصائح لطلاب علوم الكمبيوتر، والعديد من الدروس التعليمية حول الخوارزميات، هياكل البيانات، والبرمجة التنافسية.
