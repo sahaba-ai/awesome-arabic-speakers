@@ -1,6 +1,6 @@
 ---
 title: LiveCodes
-description: محرر للغات البرمجة يعمل في المتصفح!
+description: محرر لغات برمجة يعمل في المتصفح
 slug: livecodes
 date: 2024-09-07 00:00:00+0000
 image: livecodes.png
@@ -13,10 +13,8 @@ tags:
   - Developer Tools
   - Software
   - Programming
-  - Frontend
   - Code
-  - Playground
   - Open Source
 ---
 
-[LiveCodes](https://livecodes.io/) هو محرر للغات البرمجة [مفتوح المصدر](https://github.com/live-codes/livecodes) و[غني بالميزات](https://livecodes.io/docs/) يعمل في المتصفح، ويدعم الكثير من المكتبات و لغات البرمجة.
+[LiveCodes](https://github.com/live-codes/livecodes) هو محرر للغات البرمجة مفتوح المصدر وغني بالميزات يعمل في المتصفح، ويدعم العديد من المكتبات و لغات البرمجة مثل  React, Vue, Svelte, Solid, Typescript, Python, Go, Ruby, PHP وأكثر من 90 لغة وإطار عمل.
