@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing to the [Awesome Arabic Speakers](https://awesome-arabic-speakers.dev/) project. We appreciate your efforts and contributions.
 
-## Criteria
+## Inclusion Criteria
 
 Awesome Arabic Speakers is an awesome list. `Awesome` lists are curated of the best, **not everything**.
 
@@ -15,6 +15,12 @@ So, we define the criteria for contributions per category as follows (we probabl
 - [Text](https://awesome-arabic-speakers.dev/categories/text/) (like blog): It should be live for over a year and has at least 12 posts.
 
 Some exceptions may be allowed, but only in the narrowest limits (e.g., when the project is unique).
+
+## Exclusion Criteria
+
+- **Contributions, not people:** If the name hadn't already been so long, we would have named the project "Awesome Arabic Speakers Contributions." So, in this project, we don't evaluate the people but their contributions. Following that rule, we focus on the added value of the contribution and don't add personal details.
+- **Only Awesome Contributions:**: Awesome lists are curated of the best, **not everything**. Our top focus is on the unique contributions and avoiding redundant contributions.
+- **No Non-Tech Resources:** This project is interested solely in tech contributions. For the same reason, we don't add personal resources like channels and blogs with author names, as it could include tech and non-tech resources.
 
 ## Running the Project Locally
 
@@ -56,7 +62,7 @@ Make sure you have the following installed on your machine:
 
 ## How to Contribute
 
-We welcome contributions from everyone. The list covers many [categories](https://awesome-arabic-speakers.dev/categories/) like `Entity`, `Software`, `Multimedia`, `Text`, and `Event`. For more details, check the [criteria for each section](#criteria).
+We welcome contributions from everyone. The list covers many [categories](https://awesome-arabic-speakers.dev/categories/) like `Entity`, `Software`, `Multimedia`, `Text`, and `Event`. For more details, check the [criteria for each section](#inclusion-criteria).
 
 ### Steps to Contribute
 
