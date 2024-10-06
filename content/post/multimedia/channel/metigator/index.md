@@ -1,5 +1,5 @@
 ---
-title: Metigator Channel
+title: Metigator
 description: Elevate your .NET and C# development skills with expert tutorials and best practices
 slug: metigator
 date: 2024-09-24 00:00:00+0000
@@ -9,15 +9,14 @@ categories:
 languages:
   - Arabic
 tags:
-  - Channel
+  - C Sharp
+  - Dot Net
   - Programming
-  - Tutorial
   - Software
-  - Youtube
-  - Community
+  - Tutorial
 ---
 
-[Metigator](https://www.youtube.com/@Metigator) is your go-to channel for mastering C# and ASP.NET. Hosted by Eng. Issam Abdelnabi, the channel focuses on offering in-depth tutorials and practical guidance on .NET development, C# programming, and software engineering best practices.
+[Metigator](https://www.youtube.com/@Metigator) is your go-to channel for mastering C# and ASP.NET. The channel focuses on offering in-depth tutorials and practical guidance on .NET development, C# programming, and software engineering best practices.
 
 Metigator's content includes comprehensive courses like Mastering C#.NET series, covering everything from basic syntax to advanced object-oriented programming (OOP), ensuring developers of all levels can build their skills effectively.
 

@@ -1,6 +1,6 @@
 ---
-title: Metigator قناة
-description: ارتقِ بمهاراتك في تطوير .NET و C# من خلال دروس احترافية وأفضل الممارسات.
+title: Metigator
+description: ارتقِ بمهاراتك في تطوير .NET و C# من خلال دروس احترافية وأفضل الممارسات
 slug: metigator
 date: 2024-09-24 00:00:00+0000
 image: metigator.jpg
@@ -9,15 +9,14 @@ categories:
 languages:
   - Arabic
 tags:
-  - Channel
+  - C Sharp
+  - Dot Net
   - Programming
-  - Tutorial
   - Software
-  - Youtube
-  - Community
+  - Tutorial
 ---
 
-[Metigator](https://www.youtube.com/@Metigator) هو قناتك المثالية لإتقان لغة C# وASP.NET. يدير القناة المهندس عصام عبدالنبي، وهي تركز على تقديم دروس متعمقة وإرشادات عملية حول تطوير .NET، وبرمجة C#، وأفضل الممارسات.
+[Metigator](https://www.youtube.com/@Metigator) هي قناتك المثالية لإتقان لغة C# وASP.NET. تركز القناة على تقديم دروس متعمقة وإرشادات عملية حول تطوير .NET، وبرمجة C#، وأفضل الممارسات.
 
 يتضمن محتوى قناة Metigator دورات شاملة مثل سلسلة Mastering C#.NET، التي تغطي كل شيء من الأساسيات إلى البرمجة الكينونية (OOP)، مما يضمن للمطورين من جميع المستويات بناء مهاراتهم بشكل فعال.
 
