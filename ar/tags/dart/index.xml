@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dart on متحدثو العربية الرائعون</title><link>https://awesome-arabic-speakers.dev/ar/tags/dart/</link><description>Recent content in Dart on متحدثو العربية الرائعون</description><generator>Hugo -- gohugo.io</generator><language>ar</language><lastBuildDate>Tue, 27 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://awesome-arabic-speakers.dev/ar/tags/dart/index.xml" rel="self" type="application/rss+xml"/><item><title>فلاتر بوند</title><link>https://awesome-arabic-speakers.dev/ar/p/flutter-bond/</link><pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate><guid>https://awesome-arabic-speakers.dev/ar/p/flutter-bond/</guid><description>&lt;img src="https://awesome-arabic-speakers.dev/p/flutter-bond/flutter-bond.png" alt="Featured image of post فلاتر بوند" />&lt;p>&lt;a class="link" href="https://github.com/onestudio-co/flutter-bond" target="_blank" rel="noopener"
+>فلاتر بوند&lt;/a> هو إطار عمل لتطوير تطبيقات الهاتف المحمول مبني على فلاتر Flutter، من خلال التركيز على تقليل التعليمات البرمجية المكررة، يهدف Flutter Bond إلى جعل تطوير تطبيقات الهاتف المحمول أكثر متعة وكفاءة. مستوحى من مبادئ الهندسة المعمارية النظيفة ويهدف إلى تبسيط التطوير، يوفر ميزات مثل:&lt;/p>
+&lt;ul>
+&lt;li>إدارة حالة التطبيق بسلاسة.&lt;/li>
+&lt;li>إجراء طلبات API مبسطة باستخدام Bond Fire.&lt;/li>
+&lt;li>التنقل والتوجيه السهل بين الشاشات.&lt;/li>
+&lt;li>بنية قابلة للتوسيع (Bond Core).&lt;/li>
+&lt;li>دعم واجهة سطر الأوامر (Bond CLI) لتطوير أسرع.&lt;/li>
+&lt;/ul></description></item></channel></rss>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Flutter on Awesome Arabic Speakers</title><link>https://awesome-arabic-speakers.dev/tags/flutter/</link><description>Recent content in Flutter on Awesome Arabic Speakers</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 27 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://awesome-arabic-speakers.dev/tags/flutter/index.xml" rel="self" type="application/rss+xml"/><item><title>Flutter Bond</title><link>https://awesome-arabic-speakers.dev/p/flutter-bond/</link><pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate><guid>https://awesome-arabic-speakers.dev/p/flutter-bond/</guid><description>&lt;img src="https://awesome-arabic-speakers.dev/p/flutter-bond/flutter-bond.png" alt="Featured image of post Flutter Bond" />&lt;p>&lt;a class="link" href="https://github.com/onestudio-co/flutter-bond" target="_blank" rel="noopener"
+>Flutter Bond&lt;/a> is a mobile application framework built on top of Flutter, By focusing on reducing boilerplate code, Flutter Bond aims to make mobile app development more enjoyable and efficient. Inspired by Clean Architecture principles and aiming to streamline development, it offers features like:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Seamless state management:&lt;/strong> Simplifies managing application data.&lt;/li>
+&lt;li>&lt;strong>Simplified API calls:&lt;/strong> Makes handling API requests easier with Bond Fire.&lt;/li>
+&lt;li>&lt;strong>Easy navigation and routing:&lt;/strong> Enables smooth navigation between screens.&lt;/li>
+&lt;li>&lt;strong>Extensible architecture:&lt;/strong> Provides a flexible foundation for customization (Bond Core).&lt;/li>
+&lt;li>&lt;strong>CLI support:&lt;/strong> Offers faster development through Bond CLI.&lt;/li>
+&lt;/ul></description></item></channel></rss>
