@@ -14,6 +14,7 @@ tags:
   - Career
   - Education
   - Community
+weight: 3
 ---
 
 [Manara](https://manara.tech/) is a public benefit corporation (PBC), a type of for-profit corporation created to generate social and public good. Manara aims to create a platform that supports software engineers and data scientists from the Middle East and North Africa (MENA) to match the global job market.
