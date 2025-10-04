@@ -3,7 +3,7 @@ title: Garage Education
 description: A non-profit project that offers free tech videos with a focus on data engineering
 slug: garage-education
 date: 2025-05-10 00:00:00+0000
-image: garage-education.svg
+image: garage-education.png
 categories:
   - Multimedia
 languages:

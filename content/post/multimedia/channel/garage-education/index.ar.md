@@ -3,7 +3,7 @@ title: Garage Education
 description: مشروع غير ربحي يقدم مقاطع فيديو تقنية مجانية مع تركيز على هندسة البيانات
 slug: garage-education
 date: 2025-05-10 00:00:00+0000
-image: garage-education.svg
+image: garage-education.png
 categories:
   - Multimedia
 languages:
