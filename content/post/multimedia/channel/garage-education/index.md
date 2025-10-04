@@ -1,21 +1,18 @@
 ---
 title: Garage Education
-description: Is a nonprofit channel offering free tech and science content to empower learners through practical knowledge.
+description: A non-profit project that offers free tech videos with a focus on data engineering
 slug: garage-education
 date: 2025-05-10 00:00:00+0000
-image: garage-education.jpg
+image: garage-education.svg
 categories:
   - Multimedia
 languages:
   - Arabic
-tags: 
-  - Technology
-  - Education
-  - Software Development
-  - Science
-  - Tutorials
-  - Open Source
-  - Engineering
+tags:
+  - Channel
+  - Data Engineering
+  - Software Engineering
+  - Tutorial
 ---
 
-[Garage Education](https://www.youtube.com/@GarageEducation) Is a nonprofit YouTube channel dedicated to sharing knowledge, science, practical experience, and best practices in all areas of technology. The channel offers free educational content aimed at empowering individuals by simplifying complex technological concepts. It features tutorials, hands-on projects, and explanatory videos designed to enhance viewers' technical skills and foster innovation.
+[Garage Education](https://www.youtube.com/@GarageEducation) is a non-profit channel focused on data engineering. It offers free educational tech content that empowers individuals by simplifying complex technological concepts. The channel features tutorials, hands-on projects, and explanatory videos aimed at enhancing viewers’ technical skills and fostering innovation.
